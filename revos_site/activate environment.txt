@@ -1,0 +1,4 @@
+PS E:\billmaker\site\revos_site> python -m venv .venv
+PS E:\billmaker\site\revos_site>  .\.venv\Scripts\Activate.ps1
+(.venv) PS E:\billmaker\site\revos_site> pip freeze
+(.venv) PS E:\billmaker\site\revos_site>  
